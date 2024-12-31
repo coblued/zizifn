@@ -4,9 +4,9 @@ import { connect } from 'cloudflare:sockets';
 
 // To generate your own UUID: https://www.uuidgenerator.net/
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = '10e894da-61b1-4998-ac2b-e9ccb6af9d30';
+let userID = '1ef1129f-1144-4b11-ab33-a55e82bd3c3c';
 
-let proxyIP = 'turk.radicalization.ir';// OR use 'nima.nscl.ir      Find proxyIP: https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md
+let proxyIP = 'xmlcfer.ydns.eu';// OR use 'nima.nscl.ir      Find proxyIP: https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md
 
 
 if (!isValidUUID(userID)) {
